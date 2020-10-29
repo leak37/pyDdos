@@ -23,7 +23,7 @@ bytes = random._urandom(1490)
 
 os.system("toilet -fmono12 -F py ddos")
 print
-print ("\033[96mAuthor   : svrn#1098")
+print ("\033[96mAuthor   : Alter#1098")
 print ("github   :\033[0m \033[95mhttps://github.com/svrnn\033[0m")
 print ("\033[96m--Py DDOS \033[0m\033[93mPyDDOS \033[0m")
 print ("\033[92m-----> PyDDOS-v1 <-----\033[0m")

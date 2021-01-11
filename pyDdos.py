@@ -1,6 +1,6 @@
 #Made by Leak#5749
 #Contributed to github
-#skrrrtttt
+#Special thanks to NumeX
 
 import sys
 import os
@@ -32,7 +32,7 @@ print("\033[91m[--\033[0m\033[92m--\033[0m--\033[93m--\033[0m--\033[94m--\033[0m
 time.sleep(1)
 print("\033[92m> Put Target information\033[0m")
 print
-ip = raw_input("\033[93m> Target IP\033[0m -> ")
+ip = input("\033[93m> Target IP\033[0m -> ")
 port = input("\033[91m> Server Port\033[0m       -> ")
 print
 print("\033[93m----- > Waiting for a moment < ----- \033[0m")
